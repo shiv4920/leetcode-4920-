@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shiv4920/leetcode-4920-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shiv4920/leetcode-4920-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0503-next-greater-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/shiv4920/leetcode-4920-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shiv4920/leetcode-4920-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/shiv4920/leetcode-4920-/tree/master/0875-koko-eating-bananas) |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shiv4920/leetcode-4920-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shiv4920/leetcode-4920-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shiv4920/leetcode-4920-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shiv4920/leetcode-4920-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -82,12 +85,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shiv4920/leetcode-4920-/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shiv4920/leetcode-4920-/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shiv4920/leetcode-4920-/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
+## String
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
