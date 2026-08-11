@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0502-ipo](https://github.com/shiv4920/leetcode-4920-/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shiv4920/leetcode-4920-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
