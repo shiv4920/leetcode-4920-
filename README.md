@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shiv4920/leetcode-4920-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shiv4920/leetcode-4920-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/shiv4920/leetcode-4920-/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/shiv4920/leetcode-4920-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shiv4920/leetcode-4920-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/shiv4920/leetcode-4920-/tree/master/0175-combine-two-tables) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shiv4920/leetcode-4920-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
