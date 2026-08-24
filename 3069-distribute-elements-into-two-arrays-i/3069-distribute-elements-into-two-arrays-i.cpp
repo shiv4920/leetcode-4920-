@@ -15,10 +15,9 @@ public:
             }
         }
         
-        vector<int>ans=arr1;
         for(int i=0;i<arr2.size();i++){
-            ans.push_back(arr2[i]);
+            arr1.push_back(arr2[i]);
         }
-        return ans;
+        return arr1;
     }
 };
