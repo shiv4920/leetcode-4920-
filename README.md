@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/shiv4920/leetcode-4920-/tree/master/0973-k-closest-points-to-origin) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shiv4920/leetcode-4920-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shiv4920/leetcode-4920-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shiv4920/leetcode-4920-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bucket Sort
 |  |
 | ------- |
