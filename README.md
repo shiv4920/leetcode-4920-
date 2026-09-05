@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0022-generate-parentheses) |
 | [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
 ## Trie
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/shiv4920/leetcode-4920-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -189,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/shiv4920/leetcode-4920-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/3904-smallest-stable-index-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
