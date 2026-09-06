@@ -1,15 +1,17 @@
 class Solution {
 public:
-    unordered_map<char,string>mp={
-     {'2',"abc"},
-     {'3',"def"},
-     {'4',"ghi"},
-     {'5',"jkl"},
-     {'6',"mno"},
-     {'7',"pqrs"},
-     {'8',"tuv"},
-     {'9',"wxyz"},
-    };
+     unordered_map<char,string>mp;
+
+     Solution() {
+       mp['2']= "abc";
+       mp['3']= "def"; 
+       mp['4']= "ghi"; 
+       mp['5']= "jkl"; 
+       mp['6']= "mno"; 
+       mp['7']= "pqrs";
+       mp['8']= "tuv"; 
+       mp['9']= "wxyz";
+    }
     void fun(string& digits,int n,int i,string& diary,vector<string>& res){
         if(i==n){
             res.push_back(diary);
