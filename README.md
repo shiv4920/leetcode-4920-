@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/shiv4920/leetcode-4920-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/shiv4920/leetcode-4920-/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/shiv4920/leetcode-4920-/tree/master/0973-k-closest-points-to-origin) |
+| [1480-running-sum-of-1d-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1480-running-sum-of-1d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shiv4920/leetcode-4920-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shiv4920/leetcode-4920-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shiv4920/leetcode-4920-/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/shiv4920/leetcode-4920-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
