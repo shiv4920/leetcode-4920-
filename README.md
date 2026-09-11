@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0434-number-of-segments-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0940-distinct-subsequences-ii) |
 ## Trie
 |  |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shiv4920/leetcode-4920-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shiv4920/leetcode-4920-/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shiv4920/leetcode-4920-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
