@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/2094-finding-3-digit-even-numbers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shiv4920/leetcode-4920-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shiv4920/leetcode-4920-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shiv4920/leetcode-4920-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/shiv4920/leetcode-4920-/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/shiv4920/leetcode-4920-/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/2094-finding-3-digit-even-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shiv4920/leetcode-4920-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bucket Sort
 |  |
@@ -260,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
