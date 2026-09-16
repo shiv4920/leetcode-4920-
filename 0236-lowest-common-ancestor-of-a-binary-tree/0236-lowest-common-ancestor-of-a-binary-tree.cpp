@@ -11,17 +11,17 @@ class Solution {
     TreeNode*ans=nullptr;
 public:
     int fun(TreeNode* Node, TreeNode* p, TreeNode* q){
-        if(Node==nullptr)
+        if(Node == nullptr)
           return 0;
-        int left=fun(Node->left,p,q);
-        int right=fun(Node->right,p,q);
-        int self=0;
-        if(Node==p||Node==q){
+        int left = fun(Node->left,p,q);
+        int right = fun(Node->right,p,q);
+        int self = 0;
+        if(Node == p||Node == q){
             self=1;
         }
         int total=left+self+right;
-        if(total==2&&ans==nullptr){
-            ans=Node;
+        if(total ==2 &&ans == nullptr){
+            ans = Node;
         }
         return total;
 
