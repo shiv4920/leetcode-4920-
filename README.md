@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shiv4920/leetcode-4920-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/shiv4920/leetcode-4920-/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/shiv4920/leetcode-4920-/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/shiv4920/leetcode-4920-/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/shiv4920/leetcode-4920-/tree/master/0704-binary-search) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/shiv4920/leetcode-4920-/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/shiv4920/leetcode-4920-/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/shiv4920/leetcode-4920-/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shiv4920/leetcode-4920-/tree/master/2091-removing-minimum-and-maximum-from-array) |
