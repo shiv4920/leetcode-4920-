@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shiv4920/leetcode-4920-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/shiv4920/leetcode-4920-/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0503-next-greater-element-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shiv4920/leetcode-4920-/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0503-next-greater-element-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0940-distinct-subsequences-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/shiv4920/leetcode-4920-/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/shiv4920/leetcode-4920-/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shiv4920/leetcode-4920-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Database
 |  |
