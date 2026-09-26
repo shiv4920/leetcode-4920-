@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/shiv4920/leetcode-4920-/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shiv4920/leetcode-4920-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
