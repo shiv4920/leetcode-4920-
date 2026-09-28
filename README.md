@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/shiv4920/leetcode-4920-/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/shiv4920/leetcode-4920-/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/shiv4920/leetcode-4920-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shiv4920/leetcode-4920-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/shiv4920/leetcode-4920-/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/shiv4920/leetcode-4920-/tree/master/0973-k-closest-points-to-origin) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/shiv4920/leetcode-4920-/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/shiv4920/leetcode-4920-/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/shiv4920/leetcode-4920-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/shiv4920/leetcode-4920-/tree/master/0973-k-closest-points-to-origin) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/2094-finding-3-digit-even-numbers) |
