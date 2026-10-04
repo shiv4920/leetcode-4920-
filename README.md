@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shiv4920/leetcode-4920-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/shiv4920/leetcode-4920-/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shiv4920/leetcode-4920-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/shiv4920/leetcode-4920-/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0434-number-of-segments-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0796-rotate-string) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/shiv4920/leetcode-4920-/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/shiv4920/leetcode-4920-/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/shiv4920/leetcode-4920-/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shiv4920/leetcode-4920-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/shiv4920/leetcode-4920-/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0940-distinct-subsequences-ii) |
 ## Memoization
 |  |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shiv4920/leetcode-4920-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
