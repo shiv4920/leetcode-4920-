@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/shiv4920/leetcode-4920-/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0434-number-of-segments-in-a-string) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/shiv4920/leetcode-4920-/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shiv4920/leetcode-4920-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shiv4920/leetcode-4920-/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/shiv4920/leetcode-4920-/tree/master/0994-rotting-oranges) |
