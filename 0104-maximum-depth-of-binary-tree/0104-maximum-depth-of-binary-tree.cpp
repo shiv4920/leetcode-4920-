@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int fun(TreeNode* root1){
+    int fun(TreeNode*root1){
         if(root1==nullptr)
            return 0;
         int lh=fun(root1->left);
