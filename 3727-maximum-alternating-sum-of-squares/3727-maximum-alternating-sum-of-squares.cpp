@@ -5,24 +5,16 @@ public:
         for(int i=0;i<n;i++){
             nums[i]=nums[i]*nums[i];
         }
-        priority_queue<long long>q;
-        for(int i=0;i<n;i++){
-            q.push(nums[i]);
-        }
-        int i=0;
+        sort(nums.rbegin(),nums.rend());
         long long sum=0;
         long long diff=0;
-        while(!q.empty()){
-            if(i<ceil(n/2.0)){
-                sum+=q.top();
-                q.pop();
-                i++;
-            }else{
-                diff+=q.top();
-                q.pop();
-                i++;
-            }
+        for(int i=0;i<ceil(n/2.0);i++){
+            sum+=nums[i];
         }
+        for(int i=ceil(n/2.0);i<n;i++){
+            diff+=nums[i];
+        }
+        
         return (sum-diff);
     }
 };
