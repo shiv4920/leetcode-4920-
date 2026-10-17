@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shiv4920/leetcode-4920-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/shiv4920/leetcode-4920-/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/shiv4920/leetcode-4920-/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/shiv4920/leetcode-4920-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/shiv4920/leetcode-4920-/tree/master/0621-task-scheduler) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0032-longest-valid-parentheses) |
+| [0290-word-pattern](https://github.com/shiv4920/leetcode-4920-/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/shiv4920/leetcode-4920-/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0387-first-unique-character-in-a-string) |
