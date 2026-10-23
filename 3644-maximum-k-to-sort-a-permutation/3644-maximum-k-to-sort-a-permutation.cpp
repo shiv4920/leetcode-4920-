@@ -1,5 +1,4 @@
 
-
 class Solution {
 public:
     int sortPermutation(std::vector<int>& nums) {
