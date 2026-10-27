@@ -2,20 +2,14 @@ class Solution {
 public:
     int firstUniqChar(string s) {
         int n=s.length();
-        bool found=false;
-        vector<int>freq(26,0);
+        unordered_map<char,int>mp;
         for(int i=0;i<n;i++){
-            freq[s[i]-'a']++;
+            mp[s[i]]++;
         }
         for(int i=0;i<n;i++){
-            if(freq[s[i]-'a']==1){
-             found = true;
-              return i;
-              break;
-            }
+          if(mp[s[i]]==1)
+            return i;
         }
-        if(!found)
-          return -1;
         return -1;
     }
 };
