@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shiv4920/leetcode-4920-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shiv4920/leetcode-4920-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shiv4920/leetcode-4920-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/shiv4920/leetcode-4920-/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/shiv4920/leetcode-4920-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/3904-smallest-stable-index-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/shiv4920/leetcode-4920-/tree/master/1254-number-of-closed-islands) |
 | [2352-equal-row-and-column-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/2352-equal-row-and-column-pairs) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shiv4920/leetcode-4920-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/shiv4920/leetcode-4920-/tree/master/0779-k-th-symbol-in-grammar) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shiv4920/leetcode-4920-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shiv4920/leetcode-4920-/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shiv4920/leetcode-4920-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/shiv4920/leetcode-4920-/tree/master/0823-binary-trees-with-factors) |
 | [0940-distinct-subsequences-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0940-distinct-subsequences-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shiv4920/leetcode-4920-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shiv4920/leetcode-4920-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
