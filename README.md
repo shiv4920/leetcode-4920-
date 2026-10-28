@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
 | [0823-binary-trees-with-factors](https://github.com/shiv4920/leetcode-4920-/tree/master/0823-binary-trees-with-factors) |
+| [1189-maximum-number-of-balloons](https://github.com/shiv4920/leetcode-4920-/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/shiv4920/leetcode-4920-/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/1512-number-of-good-pairs) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/shiv4920/leetcode-4920-/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/shiv4920/leetcode-4920-/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shiv4920/leetcode-4920-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/shiv4920/leetcode-4920-/tree/master/1189-maximum-number-of-balloons) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shiv4920/leetcode-4920-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/2390-removing-stars-from-a-string) |
