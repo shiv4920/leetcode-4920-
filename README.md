@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shiv4920/leetcode-4920-/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/shiv4920/leetcode-4920-/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shiv4920/leetcode-4920-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shiv4920/leetcode-4920-/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/shiv4920/leetcode-4920-/tree/master/1254-number-of-closed-islands) |
 | [2352-equal-row-and-column-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/2352-equal-row-and-column-pairs) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/shiv4920/leetcode-4920-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shiv4920/leetcode-4920-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/shiv4920/leetcode-4920-/tree/master/0823-binary-trees-with-factors) |
 | [0940-distinct-subsequences-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0940-distinct-subsequences-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shiv4920/leetcode-4920-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/shiv4920/leetcode-4920-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shiv4920/leetcode-4920-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
