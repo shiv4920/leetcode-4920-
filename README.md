@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shiv4920/leetcode-4920-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shiv4920/leetcode-4920-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shiv4920/leetcode-4920-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shiv4920/leetcode-4920-/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/shiv4920/leetcode-4920-/tree/master/0973-k-closest-points-to-origin) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shiv4920/leetcode-4920-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shiv4920/leetcode-4920-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shiv4920/leetcode-4920-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shiv4920/leetcode-4920-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bucket Sort
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shiv4920/leetcode-4920-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2409-count-days-spent-together](https://github.com/shiv4920/leetcode-4920-/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shiv4920/leetcode-4920-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shiv4920/leetcode-4920-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shiv4920/leetcode-4920-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shiv4920/leetcode-4920-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/shiv4920/leetcode-4920-/tree/master/0823-binary-trees-with-factors) |
 | [0940-distinct-subsequences-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0940-distinct-subsequences-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shiv4920/leetcode-4920-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shiv4920/leetcode-4920-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/shiv4920/leetcode-4920-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shiv4920/leetcode-4920-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
@@ -561,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shiv4920/leetcode-4920-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
