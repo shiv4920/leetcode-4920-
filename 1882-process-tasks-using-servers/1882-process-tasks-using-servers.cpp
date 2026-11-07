@@ -1,53 +1,52 @@
-
 class Solution {
 public:
+    typedef pair<int, int> Server;                                
+    typedef pair<long long, int> BusyServer;                           
+
     vector<int> assignTasks(vector<int>& servers, vector<int>& tasks) {
+        int n = servers.size(), m = tasks.size();
+        long long currTime = 0;
+        int taskIdx = 0;
 
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> available;
+                    
+        priority_queue<Server, vector<Server>, greater<>> availableServers;
+        priority_queue<BusyServer, vector<BusyServer>, greater<>> busyServers;
 
-        priority_queue<tuple<long long,int,int>,
-            vector<tuple<long long,int,int>>,
-            greater<tuple<long long,int,int>>> busy;
-
-        int n = servers.size();
-        int m = tasks.size();
-
-        for(int i = 0; i < n; i++) {
-            available.push({servers[i], i});
+                                              
+        for (int i = 0; i < n; ++i) {
+            availableServers.push({servers[i], i});
         }
 
-        vector<int> ans(m);
+        vector<int> assignedServers;
 
-        long long time = 0;
+        while (taskIdx < m) {
+            int taskDuration = tasks[taskIdx], taskStartTime = taskIdx;
 
-        for(int j = 0; j < m; j++) {
+            currTime = max(currTime, (long long)taskStartTime);
 
-            time = max(time, (long long)j);
-
-            while(!busy.empty() && get<0>(busy.top()) <= time) {
-                auto [t, w, idx] = busy.top();
-                busy.pop();
-                available.push({w, idx});
+                                                                              
+            if (availableServers.empty()) {
+                currTime = max(currTime, busyServers.top().first);
             }
 
-            if(available.empty()) {
-                time = get<0>(busy.top());
+                                                                                               
+            while (!busyServers.empty() && busyServers.top().first <= currTime) {
+                auto [releaseTime, serverId] = busyServers.top(); 
+                busyServers.pop();
 
-                while(!busy.empty() && get<0>(busy.top()) == time) {
-                    auto [t, w, idx] = busy.top();
-                    busy.pop();
-                    available.push({w, idx});
-                }
+                availableServers.push({servers[serverId], serverId});
             }
 
-            auto [w, idx] = available.top();
-            available.pop();
+                                         
+            auto [weight, index] = availableServers.top(); 
+            availableServers.pop();
 
-            ans[j] = idx;
+            busyServers.push({currTime + taskDuration, index});
+            assignedServers.push_back(index);
 
-            busy.push({time + tasks[j], w, idx});
+            ++taskIdx;
         }
 
-        return ans;
+        return assignedServers;
     }
 };
