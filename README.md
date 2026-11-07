@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/shiv4920/leetcode-4920-/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/shiv4920/leetcode-4920-/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/shiv4920/leetcode-4920-/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/shiv4920/leetcode-4920-/tree/master/0704-binary-search) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shiv4920/leetcode-4920-/tree/master/0643-maximum-average-subarray-i) |
 | [2747-count-zero-request-servers](https://github.com/shiv4920/leetcode-4920-/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shiv4920/leetcode-4920-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
