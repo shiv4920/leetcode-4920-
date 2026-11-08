@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shiv4920/leetcode-4920-/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/shiv4920/leetcode-4920-/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/shiv4920/leetcode-4920-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shiv4920/leetcode-4920-/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shiv4920/leetcode-4920-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shiv4920/leetcode-4920-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shiv4920/leetcode-4920-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/shiv4920/leetcode-4920-/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/shiv4920/leetcode-4920-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shiv4920/leetcode-4920-/tree/master/1267-count-servers-that-communicate) |
 | [2352-equal-row-and-column-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/2352-equal-row-and-column-pairs) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/shiv4920/leetcode-4920-/tree/master/3665-twisted-mirror-path-count) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shiv4920/leetcode-4920-/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/shiv4920/leetcode-4920-/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shiv4920/leetcode-4920-/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shiv4920/leetcode-4920-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1254-number-of-closed-islands](https://github.com/shiv4920/leetcode-4920-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shiv4920/leetcode-4920-/tree/master/1267-count-servers-that-communicate) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shiv4920/leetcode-4920-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -510,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shiv4920/leetcode-4920-/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/shiv4920/leetcode-4920-/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/shiv4920/leetcode-4920-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shiv4920/leetcode-4920-/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
@@ -548,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/shiv4920/leetcode-4920-/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/shiv4920/leetcode-4920-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shiv4920/leetcode-4920-/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shiv4920/leetcode-4920-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
