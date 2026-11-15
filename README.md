@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shiv4920/leetcode-4920-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shiv4920/leetcode-4920-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shiv4920/leetcode-4920-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/shiv4920/leetcode-4920-/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/shiv4920/leetcode-4920-/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shiv4920/leetcode-4920-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2409-count-days-spent-together](https://github.com/shiv4920/leetcode-4920-/tree/master/2409-count-days-spent-together) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0678-valid-parenthesis-string) |
 | [0823-binary-trees-with-factors](https://github.com/shiv4920/leetcode-4920-/tree/master/0823-binary-trees-with-factors) |
 | [0940-distinct-subsequences-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0940-distinct-subsequences-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shiv4920/leetcode-4920-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shiv4920/leetcode-4920-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/shiv4920/leetcode-4920-/tree/master/3665-twisted-mirror-path-count) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shiv4920/leetcode-4920-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/shiv4920/leetcode-4920-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/3904-smallest-stable-index-ii) |
