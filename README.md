@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shiv4920/leetcode-4920-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/shiv4920/leetcode-4920-/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/shiv4920/leetcode-4920-/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/shiv4920/leetcode-4920-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shiv4920/leetcode-4920-/tree/master/0268-missing-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/shiv4920/leetcode-4920-/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shiv4920/leetcode-4920-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shiv4920/leetcode-4920-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/shiv4920/leetcode-4920-/tree/master/0502-ipo) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shiv4920/leetcode-4920-/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0387-first-unique-character-in-a-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shiv4920/leetcode-4920-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Union-Find
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shiv4920/leetcode-4920-/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/shiv4920/leetcode-4920-/tree/master/0643-maximum-average-subarray-i) |
 | [2747-count-zero-request-servers](https://github.com/shiv4920/leetcode-4920-/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shiv4920/leetcode-4920-/tree/master/3364-minimum-positive-sum-subarray) |
@@ -631,5 +635,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shiv4920/leetcode-4920-/tree/master/0239-sliding-window-maximum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shiv4920/leetcode-4920-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shiv4920/leetcode-4920-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
