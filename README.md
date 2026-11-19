@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shiv4920/leetcode-4920-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shiv4920/leetcode-4920-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/2352-equal-row-and-column-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shiv4920/leetcode-4920-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/shiv4920/leetcode-4920-/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/shiv4920/leetcode-4920-/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shiv4920/leetcode-4920-/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shiv4920/leetcode-4920-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shiv4920/leetcode-4920-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shiv4920/leetcode-4920-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/shiv4920/leetcode-4920-/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/shiv4920/leetcode-4920-/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shiv4920/leetcode-4920-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shiv4920/leetcode-4920-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shiv4920/leetcode-4920-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shiv4920/leetcode-4920-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/shiv4920/leetcode-4920-/tree/master/2706-buy-two-chocolates) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shiv4920/leetcode-4920-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shiv4920/leetcode-4920-/tree/master/3723-maximize-sum-of-squares-of-digits) |
