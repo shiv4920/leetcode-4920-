@@ -1,8 +1,7 @@
 class Solution {
 public:
     bool checkString(string s) {
-        int n=s.length();
-        for(int i=0;i<n-1;i++){
+        for(int i=0;i<s.length();i++){
             if(s[i]=='b'&&s[i+1]=='a'){
                 return false;
             }
