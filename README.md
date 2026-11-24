@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/shiv4920/leetcode-4920-/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shiv4920/leetcode-4920-/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/1352-product-of-the-last-k-numbers) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/shiv4920/leetcode-4920-/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shiv4920/leetcode-4920-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1425-constrained-subsequence-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/1425-constrained-subsequence-sum) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/shiv4920/leetcode-4920-/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1254-number-of-closed-islands](https://github.com/shiv4920/leetcode-4920-/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shiv4920/leetcode-4920-/tree/master/1267-count-servers-that-communicate) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/shiv4920/leetcode-4920-/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/2352-equal-row-and-column-pairs) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shiv4920/leetcode-4920-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/shiv4920/leetcode-4920-/tree/master/3665-twisted-mirror-path-count) |
