@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/shiv4920/leetcode-4920-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shiv4920/leetcode-4920-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1425-constrained-subsequence-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/1425-constrained-subsequence-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shiv4920/leetcode-4920-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/1512-number-of-good-pairs) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shiv4920/leetcode-4920-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/shiv4920/leetcode-4920-/tree/master/0973-k-closest-points-to-origin) |
+| [1425-constrained-subsequence-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/1425-constrained-subsequence-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shiv4920/leetcode-4920-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/shiv4920/leetcode-4920-/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shiv4920/leetcode-4920-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0678-valid-parenthesis-string) |
 | [0823-binary-trees-with-factors](https://github.com/shiv4920/leetcode-4920-/tree/master/0823-binary-trees-with-factors) |
 | [0940-distinct-subsequences-ii](https://github.com/shiv4920/leetcode-4920-/tree/master/0940-distinct-subsequences-ii) |
+| [1425-constrained-subsequence-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/1425-constrained-subsequence-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shiv4920/leetcode-4920-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shiv4920/leetcode-4920-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shiv4920/leetcode-4920-/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/0387-first-unique-character-in-a-string) |
+| [1425-constrained-subsequence-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/1425-constrained-subsequence-sum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shiv4920/leetcode-4920-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Union-Find
 |  |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shiv4920/leetcode-4920-/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/shiv4920/leetcode-4920-/tree/master/0643-maximum-average-subarray-i) |
+| [1425-constrained-subsequence-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/1425-constrained-subsequence-sum) |
 | [2747-count-zero-request-servers](https://github.com/shiv4920/leetcode-4920-/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shiv4920/leetcode-4920-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shiv4920/leetcode-4920-/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -664,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shiv4920/leetcode-4920-/tree/master/0239-sliding-window-maximum) |
+| [1425-constrained-subsequence-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/1425-constrained-subsequence-sum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shiv4920/leetcode-4920-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
