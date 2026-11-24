@@ -38,10 +38,10 @@ public:
 
         for (int right = 0; right < n; right++) {
 
-            bool conflict = false;
-
+            // Shrink window if current element
+            // shares a prime factor with the window
             while (true) {
-                conflict = false;
+                bool conflict = false;
 
                 for (int p : factors[right]) {
                     if (used.count(p)) {
@@ -52,6 +52,7 @@ public:
 
                 if (!conflict) break;
 
+                // Remove left element's prime factors
                 for (int p : factors[left]) {
                     used.erase(p);
                 }
@@ -59,6 +60,7 @@ public:
                 left++;
             }
 
+            // Add current element's prime factors
             for (int p : factors[right]) {
                 used.insert(p);
             }
