@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shiv4920/leetcode-4920-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shiv4920/leetcode-4920-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2409-count-days-spent-together](https://github.com/shiv4920/leetcode-4920-/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/shiv4920/leetcode-4920-/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shiv4920/leetcode-4920-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shiv4920/leetcode-4920-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shiv4920/leetcode-4920-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/shiv4920/leetcode-4920-/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/shiv4920/leetcode-4920-/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shiv4920/leetcode-4920-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/shiv4920/leetcode-4920-/tree/master/3360-stone-removal-game) |
 ## Dynamic Programming
 |  |
 | ------- |
