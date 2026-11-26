@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shiv4920/leetcode-4920-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/shiv4920/leetcode-4920-/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/shiv4920/leetcode-4920-/tree/master/0268-missing-number) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shiv4920/leetcode-4920-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shiv4920/leetcode-4920-/tree/master/0022-generate-parentheses) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shiv4920/leetcode-4920-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/shiv4920/leetcode-4920-/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/shiv4920/leetcode-4920-/tree/master/0643-maximum-average-subarray-i) |
 | [1425-constrained-subsequence-sum](https://github.com/shiv4920/leetcode-4920-/tree/master/1425-constrained-subsequence-sum) |
